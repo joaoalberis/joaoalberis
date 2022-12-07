@@ -1,4 +1,4 @@
-## Olá! Meu nome é João ALbéris
+## Olá! Me Chamo João Albéris
 <div align="left">
   <div align="center">
     <a href="https://github.com/joaoalberis">
@@ -10,7 +10,7 @@
     <img align="center" alt="Joao-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Joao-Mysql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+    <img align="center" alt="Joao-postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div>
 </div>
 
